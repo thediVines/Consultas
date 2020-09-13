@@ -1,7 +1,7 @@
 # Consultas 
 
 Astrid Carolina Díaz Gómez  
-Luis Carlos MAarín Campos  
+Luis Carlos Marín Campos  
 Andrés Darío Higuita Pérez  
 Luis Mateo Hincapié Martínez  
 
