@@ -10,4 +10,6 @@ Facultad de Ingeniería
 Universidad de Antioquia  
 2020-1  
 
-### 1. [Github, Gradle y Maven](GitHub_Gradle_Maven.pdf)
+### 1. [PDF](GitHub_Gradle_Maven.pdf) Github, Gradle y Maven
+### 2. [PDF](REQUERIMENTOS_NO_FUNCIONALES.pdf) [PPT(PDF)](Nonfunctional_Requirements.pdf) Requerimientos No Funcionales
+
